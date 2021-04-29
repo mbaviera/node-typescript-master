@@ -1,2 +1,2 @@
-# Aplicativo de troca de mensagens
+# Chat App
 Feito com Angular no front-end, node no back-end (express, JWT) e banco MongoDB.

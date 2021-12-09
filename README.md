@@ -1,6 +1,6 @@
 # Título do projeto
 
-Chat App
+Chat App - aplicativo para troca de mensagens construido com Angular no front e node no back.
 
 ## 🛠️ Construído com
 
